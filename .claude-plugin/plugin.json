@@ -1,0 +1,6 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "側邊面板即時顯示本次 session 的 context/token 用量、快取占比，以及 claude.ai 帳號額度（5 小時／7 天）",
+  "types": "./types/index.d.ts"
+}
